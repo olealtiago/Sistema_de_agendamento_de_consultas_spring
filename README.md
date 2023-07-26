@@ -7,6 +7,7 @@ O sistema deve possuir um cadastro de consultas, com os seguintes dados: CPF do 
 do médico e data/hora da consulta. Assume-se que a duração da consulta é de 30 minutos e
 sempre inicia-se em “hora cheia” (14h 00min etc) ou “hora meia” (14h 30min etc).
 O sistema deve atender aos seguintes requisitos:
+
 R1: CRUD 1
  de médicos (requer login de administrador)
 R2: CRUD de pacientes (requer login de administrador)
